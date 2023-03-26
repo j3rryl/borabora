@@ -1,0 +1,185 @@
+body{
+   margin: 0;
+   background-color: #F2F4F4 
+   padding: 0;
+   font-family: Century Gothic; 
+}
+ul{
+	float:right;
+	list-style-type: none;
+	margin-top: 25px;
+}
+ul li{
+	display: inline-block;
+}
+ul li a{
+	text-decoration: none;
+    color: #17202A;
+    padding: 5px 20px;
+    border: 1px solid transparent;
+}
+ul li a:hover{
+	background-color: #fff;
+	color: #000;
+}
+ul li.active a{
+background-color: #fff;
+	color: #000;
+}
+.logo img{
+	float: left;
+	width: 150px;
+	height: auto;
+}
+.main{
+	margin:auto;
+}
+.title{
+	position: absolute;
+	top: 15%;
+	left: 30%;
+	transform: translate(-50% -50%);
+}
+.title{
+	color: #17202A;
+	font-size:20px;
+}
+.features{
+	padding: 100px;
+
+}
+h1{
+	text-align:center;
+	padding-bottom: 30px;
+
+}
+.feature-img img{
+	position: absolute;
+	top:30% ;
+	left: 0%;
+	width: 45%;
+	height: 50%;
+}
+.price{
+	position: absolute;
+	top: 80%;
+	left: 09%;
+}
+.description{
+	position: absolute;
+	top: 28%;
+	left: 46%;
+	text-align: center;
+}
+.rating{
+	position: absolute;
+	top: 86%;
+	left: 09%;
+}
+.feature-img1 img{
+	position: absolute;
+	top:100% ;
+	left: 55%;
+	width: 45%;
+	height: 50%;
+}
+.price1{
+	position: absolute;
+	top: 150%;
+	left: 80%;
+}
+.description1{
+	position: absolute;
+	top: 100%;
+	right: 46%;
+	text-align: center;
+}
+.rating1{
+	position: absolute;
+	top: 155%;
+	left: 80%;
+}
+.feature-img2 img{
+	position: absolute;
+	top: 163%;
+	left: 0%;
+	width: 45%;
+	height: 50%;
+}
+.price2{
+	position: absolute;
+	top: 211%;
+	left: 09%;
+}
+.description2{
+	position: absolute;
+	top: 163%;
+	left: 46%;
+	text-align: center;
+}
+.rating2{
+	position: absolute;
+	top: 216%;
+	left: 09%;
+}
+.feature-img3 img{
+	position: absolute;
+	top:225% ;
+	left: 55%;
+	width: 45%;
+	height: 50%;
+}
+.price3{
+	position: absolute;
+	top: 275%;
+	left: 80%;
+}
+.description3{
+	position: absolute;
+	top: 225%;
+	right: 46%;
+	text-align: center;
+}
+.rating3{
+	position: absolute;
+	top: 280%;
+	left: 80%;
+}
+.feature-img4 img{
+	position: absolute;
+	top: 230%;
+	left: 55%;
+	width: 45%;
+	height: 50%;
+}
+.price4{
+	position: absolute;
+	top: 280%;
+	left: 80%;
+}
+.description4{
+	position: absolute;
+	top: 230%;
+	right: 46%;
+	text-align: center;
+}
+.rating4{
+	position: absolute;
+	top: 285%;
+	left: 80%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
